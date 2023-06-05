@@ -2,8 +2,8 @@
 
 class Config:
     # API keys
-    BYBIT_API_KEY = "jYbWluN94i0XnIH6SN"
-    BYBIT_API_SECRET = "HIPro6pQ8WoOb0vhLtGe8kRIj8TFcD6yu6hY"
+    BYBIT_API_KEY = ""
+    BYBIT_API_SECRET = ""
 
     # Parâmetros de trading
     INITIAL_INVESTMENT = 1000 # valor inicial de investimento
