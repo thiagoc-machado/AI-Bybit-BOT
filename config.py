@@ -2,11 +2,11 @@
 
 class Config:
     # API keys
-    BYBIT_API_KEY = ""
-    BYBIT_API_SECRET = ""
+    BYBIT_API_KEY = " "
+    BYBIT_API_SECRET = " "
 
     # Parâmetros de trading
-    INITIAL_INVESTMENT = 1000 # valor inicial de investimento
+    INITIAL_INVESTMENT = 10000 # valor inicial de investimento
     SYMBOL = "BTCUSDT"
     INTERVAL = "15"  # tempo de velas
     HISTORICAL_DATA_PERIOD = "1Y"  # período dos dados para backtesting
